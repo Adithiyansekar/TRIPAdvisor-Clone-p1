@@ -44,5 +44,5 @@ Practice in building real-world UI/UX designs
 
 ## 📂 Live Demo & Repository
 🔗 [Live Demo](https://adithiyansekar.github.io/Udemy-Clone-Static-P1/)  
-📁 [Repository](https://github.com/Adithiyansekar/Udemy-Clone-Static-P1)
+📁 [Repository](https://github.com/Adithiyansekar/TRIPAdvisor-Clone-p1)
 
